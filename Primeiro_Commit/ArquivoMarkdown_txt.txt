@@ -1,0 +1,110 @@
+Arquivo Markdown é uma forma mais humano de escreve o HTML. 
+O html é o esqueleto a estrutura da pagina WEB. 
+
+David AttardGUIASÚltima Atualização: 11 agosto 2021
+O que é um arquivo .MD? E como abrir um (extensão Markdown)
+O que exatamente é um arquivo MD?
+
+A .md or .MARKDOWN extensão de arquivo é usado para salvar arquivos de texto escritos com dialetos de linguagem Markdown. Os arquivos MD são arquivos de texto simples que empregam o Linguagem Markdown, que inclui símbolos de texto embutidos que definem como um texto pode ser estruturado, incluindo recuos, formatação de tabela, fontes e cabeçalhos.
+
+
+Uma ferramenta chamada Markdown pode ser usada para converter arquivos MD em HTML. John gruber publica a linguagem Markdown.
+
+ 
+
+Conteúdo[Show]
+Os arquivos MD são arquivos de desenvolvedor usados ​​principalmente pelo Markdown para converter arquivos de texto em versões HTML para que os usuários possam produzir arquivos simples de ler e gravar.
+
+Os aplicativos que podem abrir um arquivo .md são os seguintes:
+
+Bloco de notas2
+Bloco de Notas da Microsoft
+Microsoft WordPad
+Apple TextEdit
+
+Uma palavra de cautela: os arquivos .md não devem ter sua extensão alterada. Se for esse o caso, isso não mudará o tipo de arquivo porque existe um software de conversão especial para converter arquivos de um tipo para outro.
+
+
+Como já foi dito, os arquivos .MD são arquivos gravados com o programa de linguagem Markdown. Markdown é uma linguagem de marcação simples projetada para um propósito: formatar texto na web usando gramática de formatação de texto simples.
+
+Vamos ser claros: Markdown não é um substituto para HTML porque sua sintaxe é muito simples e contém apenas um pequeno subconjunto de tags HTML. O objetivo do Markdown é tornar a prosa mais fácil de ler, escrever e editar. Em outras palavras, HTML é um formato de publicação, enquanto Markdown é um formato de escrita.
+
+
+Markdown é agora uma das linguagens de marcação mais amplamente usadas no mundo.
+
+A formatação de palavras e frases no Microsoft Word é feita clicando em botões e as alterações são imediatamente visíveis. Markdown, por outro lado, não é assim.
+
+A sintaxe Markdown é aplicada ao texto quando um arquivo formatado Markdown é criado para especificar quais palavras e frases podem ter uma aparência diferente. Para representar um título, por exemplo, um sinal de número é anexado antes dele (por exemplo, # Título Um). Dois asteriscos são colocados antes e depois da frase para torná-la em negrito (por exemplo, este texto está em negrito).
+
+
+Depois de um tempo no texto, a sintaxe do markdown fica visível.
+
+exemplo de remarcação
+
+Confira o seguinte exemplo de Markdown:
+
+
+É muito fácil colocar algumas palavras em ** negrito ** e outras palavras em * itálico * com Markdown. Você pode até [link para o Google!] (Http://google.com)
+Como os arquivos de documentação do Markdown podem ser abertos e convertidos
+
+Como os arquivos MD são apenas documentos de texto comuns, você pode abri-los com qualquer editor de texto do Windows, como o Bloco de notas ou WordPad. Você pode usar um dos outros editores de texto livre de nossa lista. Aqui estão algumas ferramentas especializadas adicionais de abertura e conversão de arquivos Markdown:
+
+MarkPad é um visualizador e editor de arquivos que oferece suporte aos formatos MD, MDOWN, MARKDOWN e MKD.
+Um aplicativo chamado Markdown pode ser usado para converter MD em HTML. John Gruber, o autor da linguagem Markdown, o lançou.
+O complemento Markdown Preview Plus para o navegador Chrome oferece mais um conversor de MD para HTML.
+Use o conversor 2 de Markdown online gratuito de Markdowntopdf.com para converter MD para PDF.
+Dillinger é um editor de MD baseado na web que você pode usar em seu navegador. Os arquivos Markdown também podem ser convertidos em HTML e PDF.
+Para converter o arquivo MD para o formato DOCX MS Word, use CloudConvert. Outros formulários baseados em texto, como HTML TXT, RTF e PDF, também são suportados.
+Pandoc é outro conversor de Markdown online que vale a pena conferir. DocBook v5, ICML, LaTeX, S5 e MediaWiki estão entre os formatos que ele suporta.
+Uma Breve História
+A linguagem Markdown foi projetada em 2004 por John Gruber e Aaron Swartz com o objetivo de permitir que indivíduos "escrevam em um formato de texto simples de leitura e escrita simples com a opção de convertê-lo para XHTML ou HTML".
+
+
+O objetivo do seu design é a legibilidade: a linguagem é legível como está, sem parecer que foi marcada ou formatada, como em linguagens de marcação como RTF ou HTML, onde as tags e instruções de formatação são visíveis. O conceito fundamental é baseado nas normas existentes para destacar texto simples em e-mail.
+
+Outros, desde então, reimplementaram o Markdown, como em um módulo Perl disponível no CPAN e em uma variedade de outras linguagens de programação. É lançado sob uma licença do estilo BSD e vem pré-instalado com ou como um plugin para vários sistemas de gerenciamento de conteúdo.
+
+
+Informações Técnicas Detalhadas
+Ao escrever em Markdown, o texto é primeiro salvo em um arquivo de texto simples com a extensão.md ou.markdown e, em seguida, processado usando um aplicativo Markdown como Dillinger para converter texto formatado em Markdown em HTML para exibição em navegadores da web.
+
+A Processador Markdown (também conhecido como "analisador" ou "implementação") é usado por aplicativos Markdown para converter texto formatado por Markdown em formato HTML. O diagrama de fluxo do processo é o seguinte:
+
+
+Em suma, é um procedimento de quatro etapas:
+
+Para começar, crie arquivos Markdown com uma extensão .md ou.markdown usando um editor de texto ou um aplicativo Markdown.
+Um aplicativo Markdown é então usado para abrir o arquivo Markdown.
+Para converter um arquivo Markdown em um documento HTML, utilize o programa Markdown.
+O arquivo HTML é então visualizado em um navegador da web ou convertido em outro tipo de arquivo, como PDF, usando um aplicativo Markdown.
+O Markdown torna simples fazer anotações, escrever conteúdo para sites, criar documentos prontos para impressão, publicar livros, criar apresentações e criar documentos.
+
+Algumas das versões de redução tiveram tal impacto em outras versões que são freqüentemente mencionadas como parte de outras versões. Bibliotecas, por exemplo, mencionam o suporte CommonMark (GFM). Vamos dar uma olhada rápida neles.
+
+Como a rede de compartilhamento de código aberto Github aceitou e aprimorou a linguagem com uma versão chamada Github Flavored Markup (GFM), que inclui bloqueios de código em parede, vinculação automática de URL, tachado, tabelas e tarefas geradas, o GFM Markdown se tornou extremamente popular entre os desenvolvedores.
+
+Os desenvolvedores do CommonMark Markdown recentemente tentaram padronizar o markdown trabalhando juntos para construir uma versão, testes e documentação mais abrangentes para a linguagem, que eles apelidaram de CommonMark. Este formato é relativamente novo e carece de vários recursos, embora muitos recursos do MultiMarkdown sejam introduzidos em um futuro próximo.
+
+
+Remarcação múltipla
+O Multi-Markdown aprimorou o idioma com novos recursos que são suportados por outras versões. Foi originalmente escrito em Perl, mas acabou sendo portado para C. Fencing, destaque de sintaxe, tabelas, metadados, links de fragmentos / referências cruzadas, notas de rodapé, tachado, listas de definição e matemática são todos suportados.
+
+PERGUNTAS FREQUENTES
+O que exatamente são arquivos GitHub MD?
+GitHub é um serviço de internet baseado em nuvem para programadores e desenvolvedores. É um lugar onde eles podem controlar, gerenciar e armazenar modificações em seus projetos. Ao trabalhar com o GitHub, programadores e desenvolvedores frequentemente utilizam a extensão de arquivo MD para arquivos README no formato de arquivo de Documentação Markdown (leiame.md).
+
+O que é um arquivo MD e como posso fazer um?
+Para produzir um arquivo de Documentação Markdown, que é o tipo de arquivo MD mais frequente, abra um editor de texto, crie um novo arquivo e nomeie-o Readme.md ou qualquer outra coisa que faça sentido e salve-o com a extensão.md.
+
+Sobre o autor
+David Attard
+Autor: David AttardSite: https://www.linkedin.com/in/dattard/
+
+David tem trabalhado na ou em torno da indústria online / digital nos últimos 18 anos. Ele tem vasta experiência nas indústrias de software e web design usando WordPress, Joomla e nichos ao seu redor. Como consultor digital, seu foco é ajudar as empresas a obter uma vantagem competitiva usando uma combinação de seu website e plataformas digitais disponíveis hoje.
+
+Mais uma coisa... Você sabia que as pessoas que compartilham coisas úteis como esta postagem também parecem FANTÁSTICAS? ;-)
+. deixe um útil comente com suas ideias, depois compartilhe com seu (s) grupo (s) do Facebook, que considerariam isso útil e vamos colher os benefícios juntos. Obrigado por compartilhar e ser legal!
+
+Divulgação: Esta página pode conter links para sites externos de produtos que amamos e recomendamos de todo o coração. Se você comprar produtos que sugerimos, podemos receber uma taxa de referência. Essas taxas não influenciam nossas recomendações e não aceitamos pagamentos por análises positivas.
+
+FONTE:https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md
